@@ -12,8 +12,8 @@ import { QueryProvider } from '@/components/providers/query-provider'
 const font = Open_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'AFP Team Chat Application',
-  description: 'AFP-WI Private Communications',
+  title: 'AFP-WI Team Communications',
+  description: 'AFP-WI Private Team Communications',
 }
 
 export default function RootLayout({
