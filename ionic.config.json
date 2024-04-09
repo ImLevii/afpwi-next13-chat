@@ -1,0 +1,7 @@
+{
+  "name": "discord-clone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
